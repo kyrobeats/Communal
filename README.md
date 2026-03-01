@@ -1,2 +1,3 @@
 # Communal
-A simple chat base
+
+Coming soon...
